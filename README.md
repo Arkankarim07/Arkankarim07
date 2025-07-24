@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello World, My name is Muhammad Arkan Karim 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arkankarim07)](https://github.com/Arkankarim07/github-readme-stats)
 <!--
 **Arkankarim07/Arkankarim07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
